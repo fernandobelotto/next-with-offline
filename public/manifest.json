@@ -1,7 +1,7 @@
 {
-  "name": "next-offline",
-  "short_name": "next-offline",
-  "description": "Nextjs using service worker via next-offline",
+  "name": "next-with-offline",
+  "short_name": "nx-off",
+  "description": "Nextjs project with offline capabilities",
   "icons": [
     {
       "src": "/static/pwa.png",
